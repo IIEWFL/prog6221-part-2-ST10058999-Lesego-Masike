@@ -1,0 +1,9 @@
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\bin\Debug\Speech.Synthesis.Core.dll
+C:\Users\MSI\Downloads\Event-Ease-Project\Chatbot\obj\Debug\Chatbot.csproj.Up2Date
